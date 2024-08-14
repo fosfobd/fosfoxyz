@@ -19,3 +19,4 @@ El AI en el juego es bastante anticuado, pero el juego es lo suficientemente equ
 
 La galleta de este juego esta en la manera de mover a los robots en el campo de batalla minimizando el dano que los enemigos te puedan hacer. Es genial el sentimiento de lograr una victoria donde el enemigo poco pudo hacer para defenderse. En los encuentros, la computadora tiene superioridad numerica, pero, como mencionamos previamente, no es muy inteligente en sus movimientos, por lo que no te lanzara todos sus robotos desde el inicio, tendrias que moverte muy mal en el tablero para incitar a todos los robots del enemigo a atacarte.
 
+Aunque en mi infancia me termine el juego en repetidas ocasiones, hoy en dia aun no llego al final nuevamente, estoy en un punto donde ya pase los tutoriales, pero aun no es la mitad del juego, un punto interesante, pero aun no es la mejor parte, cuando mis robots lleguen a ser muy poderosos, :) oh zi.
