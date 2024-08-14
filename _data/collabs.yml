@@ -1,0 +1,44 @@
+- name: Pablo Balderas
+  nicknames: Fosfo, Dr Doom
+  description: >-
+    Pablo is a very relaxed individual that enjoys playing strategy
+    videogames or games that are not very intense, that allow you to
+    relax. This usually means you will find him playing single player
+    games, turn-based, co-op, and generally avoiding competitive ones.
+  favorites:
+    old-school:
+      - Chrono Trigger
+      - "Super Mario RPG: Legend of the Seven Stars"
+      - "Zelda: Ocarina of Time"
+      - "Medieval 2: Total War"
+    modern:
+      - Stardew Valley
+      - Stellaris
+  interests:
+    - hacking
+    - agriculture
+    - strategy videogames
+- name: Felipe Balderas
+  nicknames: GordoManchego, Don Filip McWillburgFrank
+  description: >-
+    awaiting description...
+  favorites:
+    old-school:
+      - Tibia
+      - Ragnarok Online
+    modern:
+      - Tarkov
+      - Stellaris
+- name: David Delgado
+  nicknames:
+    - ElectroBourbon
+    - DC
+  description: >-
+    awaiting description...
+  favorites:
+    old-school:
+      - Tibia
+      - Ragnarok Online
+    modern:
+      - Apex Legends
+      - Secrets of Grindea
